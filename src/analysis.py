@@ -218,7 +218,7 @@ def detect_anomalies(df, window=8, threshold=2.5):
 
 
 
-from data_loader import load_data
+from src.data_loader import load_data
 
 df = load_data()
 
