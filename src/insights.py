@@ -1,6 +1,6 @@
 
 # Convert numbers into simple English sentences
-import analysis
+from src import analysis
 import pandas as pd
 
 
